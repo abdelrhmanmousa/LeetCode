@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
