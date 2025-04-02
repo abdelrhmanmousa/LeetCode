@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
