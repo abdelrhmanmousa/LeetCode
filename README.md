@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0176-second-highest-salary) |
 | [0620-not-boring-movies](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
