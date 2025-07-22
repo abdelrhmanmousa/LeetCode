@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1625-group-sold-products-by-the-date](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/abdelrhmanmousa/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
