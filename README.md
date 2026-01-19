@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/abdelrhmanmousa/LeetCode/tree/master/0596-classes-more-than-5-students) |
